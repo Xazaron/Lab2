@@ -1,4 +1,5 @@
 //app.test.js
+//Hordiednko Dmytro SMP Lab2
 const app = require('./server');
 const supertest = require('supertest');
 const request = supertest(app);

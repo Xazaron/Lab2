@@ -1,1 +1,1 @@
-# Lab2_JS_Pomyluiko
+# Hordienko DMytro SMP Lab2
